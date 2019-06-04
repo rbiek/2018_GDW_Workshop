@@ -37,7 +37,7 @@ You are provided with the results from five such replicates with randomised date
 
 *What do you conclude from these results regarding the clock rate of *B. burgdorferi*? Does the original rate estimate look distinct from its counterparts with randomised dates?*
 
-The methods outlined here are generally applicable to any pathogen genomic data set (or subgenomic data). While most RNA viruses can be expected to be measurable evolving, especially if full genomes can be used, this is not always the case. Processes such as recombination for example can impact the relationship between sampling time and root-to-tip divergence in spurious ways. For double-stranded DNA viruses, Firth et al () demonstrated that only some of the available genomic data sets exhibited measurable evolution. 
+The methods outlined here are generally applicable to any pathogen genomic data set (or subgenomic data). While most RNA viruses can be expected to be measurable evolving, especially if full genomes can be used, this is not always the case. Processes such as recombination for example can impact the relationship between sampling time and root-to-tip divergence in spurious ways. For double-stranded DNA viruses, Firth et al (2010) demonstrated that only some of the available genomic data sets exhibited measurable evolution. 
 
 **Some general rules and recommendations:**
 
@@ -56,6 +56,8 @@ Biek, R., Pybus, O. G., Lloyd-Smith, J. O., & Didelot, X. (2015). Measurably evo
 Drummond, A. J., Pybus, O. G., & Rambaut, A., Forsberg, R and A G Rodrigo (2003). Measurably evolving populations. Trends in Ecology & Evolution Vol.18 No.9, 481-488. http://doi.org/10.1016/S0169-5347(03)00216-7
 
 Drummond, A. J., Ho, S. Y. W., Phillips, M. J., & Rambaut, A. (2006). Relaxed phylogenetics and dating with confidence. PLoS Biology, 4(5), 699–710. http://doi.org/10.1371/journal.pbio.0040088
+
+Firth, C., Kitchen, A., Shapiro, B., Suchard, M. A., Holmes, E., & Rambaut, A. (2010). Using Time-Structured Data to Estimate Evolutionary Rates of Double-Stranded DNA Viruses. Molecular Biology and Evolution, 27(9), 2038–2051. http://doi.org/10.1093/molbev/msq088
 
 Rambaut, Lam, de Carvalho & Pybus (2016). Exploring the temporal structure of heterochronous sequences using TempEst. Virus Evolution 2: vew007. http://dx.doi.org/10.1093/ve/vew007
 
